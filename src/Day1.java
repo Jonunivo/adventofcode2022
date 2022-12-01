@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
+//only second part left over
+
 public class Day1 {
     public static void main(String [] args) throws FileNotFoundException{
         File file = new File("src/day1.txt");
